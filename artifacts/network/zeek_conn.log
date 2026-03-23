@@ -1,0 +1,5 @@
+#fields ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	proto	service	duration	orig_bytes	resp_bytes	conn_state
+1698049632.125	C1	10.0.1.20	44321	192.0.2.55	8080	tcp	http	1.2	450	1855	SF
+1698050010.550	C2	10.0.1.20	51234	192.0.2.55	443	tcp	ssl	3600.5	14500	550000	SF
+1698050522.001	C3	10.0.1.20	60111	10.0.5.50	5432	tcp	-	120.4	550000	14500	SF
+1698050600.111	C4	10.0.1.20	60112	10.0.5.50	5432	tcp	-	45.1	2400	800000	SF

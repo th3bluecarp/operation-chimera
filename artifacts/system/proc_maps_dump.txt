@@ -1,0 +1,8 @@
+# Scripted dump of memory maps for processes running without valid binaries
+# Executed by DFIR agent at 09:00:00
+
+PID: 1460
+00400000-00800000 r-xp 00000000 00:01 123456 /memfd:kworker (deleted)
+00800000-00a00000 r--p 00400000 00:01 123456 /memfd:kworker (deleted)
+00a00000-00c00000 rw-p 00600000 00:01 123456 /memfd:kworker (deleted)
+7fffc0000000-7fffc0021000 rw-p 00000000 00:00 0 [stack]
